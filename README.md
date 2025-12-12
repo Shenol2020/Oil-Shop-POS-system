@@ -3,7 +3,7 @@
 <p>
 This project is a Point of Sale system built for a small oil shop. It manages products, suppliers, employees, and sales. It also supports barcode functions and report generation. 
 </p>
-<img src="images/img.png" alt="Oil Shop Image" style="max-width:200px; height:auto;">
+![Oil Shop Image](./images/img.png)
 <h2>Features</h2>
 <ul>
     <li>Add, edit, and delete products</li>
